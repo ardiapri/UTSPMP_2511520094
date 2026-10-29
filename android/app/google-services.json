@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336607870376",
+    "project_id": "utspmp-kas-kecil",
+    "storage_bucket": "utspmp-kas-kecil.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336607870376:android:c56d40128d71296895319d",
+        "android_client_info": {
+          "package_name": "com.example.utspmp_2511520094"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-1Tp3s3tlusiH2tJDJ1XaOj9M9RroDqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
